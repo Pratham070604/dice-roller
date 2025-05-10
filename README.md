@@ -2,6 +2,8 @@
 
 This is a fun and interactive web application that simulates rolling a dice and displays the result along with the running sum. It uses HTML, CSS, and JavaScript to create a responsive and dynamic UI.
 
+Check out the live demo of the project at [Dice-Roller & Sum](dicerollersum.netlify.app).
+
 ## 🧩 Features
 
 * Roll a dice and get a random number between 1 and 6.
