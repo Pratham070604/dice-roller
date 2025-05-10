@@ -48,7 +48,7 @@ dice-roller/
 
 ## 📸 Screenshot (Optional)
 
-![UI](D:\prac\Dice_Roller\Dice-Roller.png)
+![UI](images/Dice-Roller.png)
 
 ## 📄 License
 
