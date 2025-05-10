@@ -48,7 +48,7 @@ dice-roller/
 
 ## 📸 Screenshot (Optional)
 
-*Add a screenshot here if you'd like to visually represent your app.*
+![UI](D:\prac\Dice_Roller\Dice-Roller.png)
 
 ## 📄 License
 
