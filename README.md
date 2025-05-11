@@ -48,7 +48,7 @@ dice-roller/
 
 * No external libraries or frameworks. Just pure HTML, CSS, and JavaScript.
 
-## 📸 Screenshot (Optional)
+## 📸 Screenshot
 
 ![UI](images/Dice-Roller.png)
 
